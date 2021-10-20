@@ -1,4 +1,13 @@
 # acatia#0001
-Hello, I'm acatia. Welcome to my GitHub profile.
+Hello. I am acatia. I'm a Computer Science student in the UK and I like anything computer related.
 
-I am well knowledged with Python and I am in the process of learning Rust.
+I'm the creator of many things that I've made to better myself at programming.
+
+**Languages I use/have knowledge using (in order of proficiancy):**
+| Language     | Knowledge | 
+|--------------|-----------|
+| Python       | Fluent    |
+| .NET         | Beginner  | 
+| HTML & CSS   | Beginner  |
+| Rust         | Beginner  |
+| C++         | Beginner (very basics)  | 
