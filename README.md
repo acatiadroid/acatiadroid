@@ -9,5 +9,6 @@ I'm the creator of many things that I've made to better myself at programming.
 | Python       | Fluent    |
 | .NET         | Beginner  | 
 | HTML & CSS   | Beginner  |
+| C            | Beginner   |
 | Rust         | Beginner  |
-| C++         | Beginner (very basics)  | 
+| C++          | Beginner (very basics)  | 
