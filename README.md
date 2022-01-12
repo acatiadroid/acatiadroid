@@ -7,7 +7,7 @@ I'm the creator of many things that I've made to better myself at programming.
 | Language     | Knowledge | 
 |--------------|-----------|
 | Python       | Fluent    |
-| .NET         | Beginner  | 
+| VB.NET         | Beginner  | 
 | HTML & CSS   | Beginner  |
 | C            | Beginner   |
 | Rust         | Beginner  |
