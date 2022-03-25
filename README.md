@@ -5,7 +5,7 @@
 
   <p>I'm the creator of many things that I've made to better myself at programming.</p>
 
-  <p>Current big project: https://github.com/acatiadroid/music-player</p>
+  <p>Current big project: https://github.com/acatiadroid/music-player & https://github.com/acatiadroid/music-player</p>
 
   ![img](https://github-readme-stats.vercel.app/api/top-langs/?username=acatiadroid&theme=onedark&layout=compact)
   
