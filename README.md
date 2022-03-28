@@ -9,7 +9,7 @@
 
 -----------------
 
-I have a good understanding of using Python and many libraries within Python like Tkiner and discord.py. I have a basic knowledge of MongoDB and relational databases. I also have some knowledge of other languages like Rust, VB.NET, HTML & CSS & C (in order of proficiancy).
+I have a good understanding of using Python and many libraries within Python like Tkinter and discord.py. I have a basic knowledge of MongoDB and relational databases. I also have some knowledge of other languages like Rust, VB.NET, HTML & CSS & C (in order of proficiancy).
 
 -----------------
 My most notable projects are my:
