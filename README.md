@@ -12,12 +12,12 @@
 I have a good understanding of using Python and many libraries within Python like Tkinter and discord.py. I have a basic knowledge of MongoDB and relational databases. I also have some knowledge of other languages like Rust, VB.NET, HTML & CSS & C (in order of proficiancy).
 
 -----------------
-My most notable projects are my:
+My most notable projects are:
 * [Music Player](https://github.com/acatiadroid/music-player)
+* [ISgood Discord Bot](https://github.com/isgood-development/bot)
 * [Minesweeper Game](https://github.com/acatiadroid/minesweeper)
 * [Calculator](https://github.com/acatiadroid/calculator-gui)
 * [Personal Discord Bot](https://github.com/acatiadroid/acatiadroid-bot)
-* ISgood Discord Bot (discontinued, also my only closed source project)
 
 -----------------
-If you want to get in contact with me, join my [Discord server](https://discord.gg/p5bURjs)
+If you want to get in contact with me, join my [Discord server](https://discord.gg/p5bURjs).
