@@ -21,3 +21,5 @@ My most notable projects are:
 
 -----------------
 If you want to get in contact with me, join my [Discord server](https://discord.gg/p5bURjs).
+
+if it aint broken, ill fix it
