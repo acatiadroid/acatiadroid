@@ -3,13 +3,13 @@
   
   <h3>Welcome to my GitHub profile!</h3>
   
-  <p>I'm acatia, an A-Level Computer Science & IT student in the UK. That's everything relevant you need to know about me right now!</p>  
+  <p>I'm acatia, a Software Engineer Apprentice studying in the UK. Currently completing working on my Software Engineering degree.</p>  
 
 </div>
 
 -----------------
 
-I have a good understanding of using Python and many libraries within Python like Tkinter and discord.py. I have a basic knowledge of MongoDB and relational databases. I also have some knowledge of other languages like Rust, VB.NET, HTML & CSS & C (in order of proficiancy).
+I have a good understanding of Python, as well as experience in C++, Java, and Rust. I also have experience using tools such as Git, and version control tools.
 
 -----------------
 My most notable projects are:
