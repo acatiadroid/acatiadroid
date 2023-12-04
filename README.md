@@ -9,7 +9,7 @@
 
 -----------------
 
-I have a good understanding of Python, as well as experience in C++, Java, and Rust. I also have experience using tools such as Git, and version control tools.
+I have a good understanding of Python, as well as experience in C++, Java, and Rust. I also have experience using version control tools and SQL/NOSQL databases.
 
 -----------------
 My most notable projects are:
