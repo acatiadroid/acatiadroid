@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>acatia#5378</h1>
+  <h1>acatia</h1>
   
   <h3>Welcome to my GitHub profile!</h3>
   
