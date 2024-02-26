@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>acatia</h1>
+  <h1>Hi, I'm Luke.</h1>
   
   <h3>Welcome to my GitHub profile!</h3>
   
-  <p>I'm acatia, a Software Engineer Apprentice studying in the UK. Currently completing working on my Software Engineering degree.</p>  
+  <p>I'm a Software Engineer Apprentice studying in the UK. Currently studying for a Software Engineering degree.</p>  
 
 </div>
 
@@ -21,5 +21,3 @@ My most notable projects are:
 
 -----------------
 If you want to get in contact with me, join my [Discord server](https://discord.gg/p5bURjs).
-
-if it aint broken, ill fix it
