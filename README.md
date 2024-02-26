@@ -12,12 +12,5 @@
 I have a good understanding of Python, as well as experience in C++, Java, and Rust. I also have experience using version control tools and SQL/NOSQL databases.
 
 -----------------
-My most notable projects are:
-* [Music Player](https://github.com/acatiadroid/music-player)
-* [ISgood Discord Bot](https://github.com/isgood-development/bot)
-* [Minesweeper Game](https://github.com/acatiadroid/minesweeper)
-* [Calculator](https://github.com/acatiadroid/calculator-gui)
-* [Personal Discord Bot](https://github.com/acatiadroid/acatiadroid-bot)
-
------------------
+My most noteable projects are in my pinned list.
 If you want to get in contact with me, join my [Discord server](https://discord.gg/p5bURjs).
